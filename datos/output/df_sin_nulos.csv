@@ -1,0 +1,354 @@
+,price,propertyType,operation,size,exterior,rooms,bathrooms,province,municipality,distance,status,newDevelopment,floor,district,hasLift,parkingSpace
+0,750.0,flat,rent,60.0,True,1,1,Madrid,Madrid,7037,good,False,3,Hortaleza,True,desconocido
+1,750.0,flat,rent,70.0,True,2,1,Madrid,San Sebastián de los Reyes,16145,good,False,bj,Centro Urbano,False,desconocido
+2,400.0,penthouse,rent,67.0,True,2,2,Madrid,Villamanrique de Tajo,55041,good,False,2,desconocido,False,desconocido
+3,590.0,flat,rent,70.0,True,3,2,Madrid,Rascafría,56596,good,False,desconocido,desconocido,False,desconocido
+4,684.0,studio,rent,45.0,True,0,1,Madrid,Madrid,10656,desconocido,desconocido,desconocido,desconocido,desconocido,desconocido
+5,600.0,flat,rent,73.0,True,2,1,Madrid,Manzanares el Real,37062,good,False,3,desconocido,False,desconocido
+6,600.0,duplex,rent,71.0,True,1,1,Madrid,Miraflores de la Sierra,44126,good,False,1,desconocido,False,desconocido
+7,550.0,flat,rent,53.0,True,1,1,Madrid,Madrid,4008,good,False,1,Puente de Vallecas,False,desconocido
+8,700.0,studio,rent,28.0,True,0,1,Madrid,Madrid,5569,good,False,1,Ciudad Lineal,False,desconocido
+9,700.0,duplex,rent,86.0,True,2,1,Madrid,Galapagar,31153,good,False,3,Casco Antiguo,True,desconocido
+10,700.0,flat,rent,45.0,False,1,1,Madrid,Madrid,2046,good,False,5,Moncloa,False,desconocido
+11,550.0,flat,rent,54.0,True,2,1,Madrid,Arganda,26233,good,False,en,Centro,False,desconocido
+12,695.0,flat,rent,64.0,True,2,1,Madrid,San Sebastián de los Reyes,15747,good,False,1,Centro Urbano,False,desconocido
+13,650.0,flat,rent,68.0,True,2,1,Madrid,San Lorenzo de el Escorial,42410,good,False,bj,Centro - Casco Histórico,False,desconocido
+14,700.0,flat,rent,30.0,False,1,1,Madrid,Madrid,3247,good,False,1,Retiro,True,desconocido
+15,700.0,flat,rent,35.0,False,1,1,Madrid,Madrid,1894,good,False,1,Arganzuela,False,desconocido
+16,700.0,flat,rent,43.0,True,1,1,Madrid,Madrid,4442,good,False,2,Latina,True,desconocido
+17,650.0,flat,rent,60.0,True,2,1,Madrid,Madrid,3985,good,False,1,Puente de Vallecas,False,desconocido
+18,650.0,chalet,rent,206.0,False,3,1,Madrid,Aldea del Fresno,43195,good,False,desconocido,desconocido,desconocido,desconocido
+19,700.0,flat,rent,105.0,True,3,2,Madrid,Aranjuez,44003,good,False,bj,Centro,False,desconocido
+20,695.0,flat,rent,40.0,False,1,1,Madrid,Madrid,2271,good,False,4,Barrio de Salamanca,True,desconocido
+21,675.0,flat,rent,40.0,True,1,1,Madrid,Villanueva del Pardillo,23556,good,False,bj,Centro,False,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+22,750.0,studio,rent,45.0,False,0,1,Madrid,Madrid,1027,good,False,bj,Centro,True,desconocido
+23,750.0,flat,rent,99.0,True,3,2,Madrid,Aranjuez,43492,good,False,1,Centro,True,desconocido
+24,680.0,flat,rent,38.0,False,1,1,Madrid,Madrid,2591,good,False,1,Retiro,True,desconocido
+25,750.0,flat,rent,51.0,True,1,1,Madrid,Madrid,11896,good,False,1,Barajas,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+26,750.0,penthouse,rent,60.0,True,1,1,Madrid,Las Rozas de Madrid,21316,good,False,2,Las Matas- Peñascales,False,desconocido
+27,750.0,studio,rent,25.0,False,0,1,Madrid,Madrid,533,good,False,4,Centro,True,desconocido
+28,750.0,flat,rent,40.0,False,1,1,Madrid,Madrid,1989,good,False,1,Arganzuela,False,desconocido
+29,650.0,flat,rent,62.0,True,2,1,Madrid,Madrid,7841,good,False,1,Latina,False,desconocido
+30,750.0,studio,rent,30.0,True,0,1,Madrid,Madrid,935,good,False,3,Centro,False,desconocido
+31,750.0,flat,rent,39.0,False,1,1,Madrid,Madrid,2036,good,False,5,Chamberí,False,desconocido
+32,700.0,flat,rent,62.0,True,2,1,Madrid,Madrid,8492,good,False,3,Villaverde,False,desconocido
+33,747.0,flat,rent,96.0,True,3,2,Madrid,Navalcarnero,26611,good,False,1,La Dehesa - El Pinar,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+34,640.0,studio,rent,35.0,True,0,1,Madrid,Madrid,7324,good,False,1,Villaverde,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+35,750.0,flat,rent,30.0,False,1,1,Madrid,Madrid,2133,good,False,st,Retiro,True,desconocido
+36,750.0,flat,rent,70.0,True,2,1,Madrid,Alcalá de Henares,28703,good,False,2,Reyes Católicos,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+37,625.0,flat,rent,52.0,True,2,1,Madrid,El Escorial,40445,good,False,2,Centro,False,desconocido
+38,700.0,studio,rent,40.0,True,0,1,Madrid,Madrid,1431,good,False,3,Centro,True,desconocido
+39,750.0,studio,rent,40.0,True,0,1,Madrid,Madrid,2417,good,False,en,Arganzuela,True,desconocido
+40,650.0,flat,rent,35.0,False,1,1,Madrid,Madrid,1121,good,False,2,Centro,True,desconocido
+41,720.0,flat,rent,70.0,True,3,1,Madrid,Alcalá de Henares,29099,good,False,2,Chorrillo,False,desconocido
+42,699.0,flat,rent,52.0,True,1,1,Madrid,Madrid,7092,good,False,3,Puente de Vallecas,True,desconocido
+43,750.0,flat,rent,65.0,True,2,1,Madrid,Leganés,13081,good,False,desconocido,Valdepelayo - Montepinos - Arroyo Culebro,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+44,695.0,flat,rent,65.0,True,2,1,Madrid,Coslada,13904,good,False,desconocido,Valleaguado - La Cañada,True,desconocido
+45,750.0,flat,rent,78.0,True,2,2,Madrid,Torrejón de Ardoz,19719,good,False,desconocido,Suroeste,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+46,620.0,flat,rent,60.0,True,2,1,Madrid,Madrid,7981,good,False,desconocido,Villaverde,False,desconocido
+47,500.0,studio,rent,28.0,False,0,1,Madrid,Madrid,769,good,False,1,Centro,False,desconocido
+48,550.0,flat,rent,38.0,True,1,1,Madrid,Leganés,10938,good,False,desconocido,Centro,False,desconocido
+49,750.0,flat,rent,46.0,False,1,1,Madrid,Madrid,1476,good,False,3,Arganzuela,True,desconocido
+50,680.0,studio,rent,55.0,True,0,1,Madrid,Madrid,5097,good,False,bj,Ciudad Lineal,False,desconocido
+51,700.0,flat,rent,50.0,True,1,2,Madrid,Camarma de Esteruelas,32052,desconocido,desconocido,desconocido,desconocido,desconocido,desconocido
+52,750.0,duplex,rent,35.0,True,1,1,Madrid,Madrid,4047,desconocido,desconocido,desconocido,desconocido,desconocido,desconocido
+53,750.0,flat,rent,66.0,True,2,1,Madrid,Alcorcón,13311,good,False,1,Centro,True,desconocido
+54,650.0,flat,rent,65.0,True,1,1,Madrid,Alcalá de Henares,29440,good,False,en,San Isidro - Los Almendros,True,desconocido
+55,720.0,flat,rent,133.0,False,3,2,Madrid,Pinto,19453,good,False,1,San José - Buenos Aires,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+56,600.0,flat,rent,50.0,True,1,1,Madrid,Valdemoro,24430,good,False,desconocido,Hospital,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+57,650.0,flat,rent,61.0,True,1,1,Madrid,Collado Villalba,34886,good,False,2,Parque de la Coruña - Las Suertes,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+58,650.0,flat,rent,65.0,False,2,1,Madrid,Alcorcón,11537,good,False,3,Valderas - Los Castillos,False,desconocido
+59,700.0,flat,rent,45.0,True,1,1,Madrid,Madrid,12321,good,False,3,Barajas,False,desconocido
+60,625.0,flat,rent,62.0,True,2,1,Madrid,Getafe,11666,good,False,bj,Getafe Centro,False,desconocido
+61,595.0,flat,rent,45.0,True,1,1,Madrid,Madrid,4543,good,False,bj,Latina,False,desconocido
+62,650.0,flat,rent,55.0,True,1,1,Madrid,Madrid,10495,good,False,4,San Blas,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+63,725.0,flat,rent,50.0,True,1,1,Madrid,Madrid,7708,good,False,2,Villaverde,True,desconocido
+64,750.0,flat,rent,95.0,True,3,1,Madrid,Alcalá de Henares,28483,good,False,8,Reyes Católicos,True,desconocido
+65,700.0,penthouse,rent,30.0,True,1,1,Madrid,Madrid,12049,good,False,1,San Blas,True,desconocido
+66,700.0,flat,rent,27.0,False,1,1,Madrid,Madrid,1391,good,False,3,Centro,False,desconocido
+67,650.0,flat,rent,59.0,True,2,1,Madrid,Alcalá de Henares,30562,good,False,1,Val,True,desconocido
+68,550.0,flat,rent,40.0,True,1,1,Madrid,Paracuellos de Jarama,17750,good,False,3,Casco Urbano,True,desconocido
+69,650.0,flat,rent,55.0,True,1,1,Madrid,Madrid,10296,good,False,4,San Blas,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+70,750.0,flat,rent,65.0,True,2,1,Madrid,Madrid,5580,good,False,desconocido,Ciudad Lineal,True,desconocido
+71,725.0,flat,rent,70.0,True,2,1,Madrid,Madrid,4117,good,False,desconocido,Puente de Vallecas,True,desconocido
+72,700.0,flat,rent,80.0,True,1,1,Madrid,Alcalá de Henares,29460,good,False,1,Casco Histórico,False,desconocido
+73,650.0,flat,rent,40.0,True,1,1,Madrid,Madrid,12224,good,False,bj,Barajas,True,desconocido
+74,695.0,flat,rent,90.0,True,3,1,Madrid,Madrid,7729,good,False,desconocido,Villaverde,False,desconocido
+75,750.0,flat,rent,55.0,True,1,1,Madrid,Madrid,6017,good,False,desconocido,Ciudad Lineal,False,desconocido
+76,650.0,flat,rent,65.0,True,2,1,Madrid,Madrid,7559,good,False,desconocido,Latina,True,desconocido
+77,666.0,flat,rent,70.0,True,1,2,Madrid,Villanueva del Pardillo,24862,good,False,1,Los Llanos - Valle Pardo,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+78,750.0,flat,rent,78.0,True,2,2,Madrid,Alcalá de Henares,29976,good,False,desconocido,Ensanche,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+79,630.0,flat,rent,74.0,True,3,1,Madrid,El Molar,36483,good,False,desconocido,desconocido,True,desconocido
+80,635.0,studio,rent,55.0,True,0,1,Madrid,Leganés,14528,good,False,2,Valdepelayo - Montepinos - Arroyo Culebro,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+81,725.0,flat,rent,69.0,True,2,1,Madrid,Collado Villalba,35892,good,False,1,Dehesa - El Soto,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+82,750.0,flat,rent,35.0,False,1,1,Madrid,Madrid,859,good,False,1,Centro,False,desconocido
+83,690.0,flat,rent,65.0,True,2,1,Madrid,Madrid,4724,good,False,3,Puente de Vallecas,False,desconocido
+84,700.0,studio,rent,30.0,False,0,1,Madrid,Madrid,1041,good,False,2,Centro,True,desconocido
+85,730.0,flat,rent,64.0,True,3,1,Madrid,Parla,20235,good,False,1,Pintores-Ferial,False,desconocido
+86,750.0,flat,rent,51.0,True,1,1,Madrid,Madrid,3436,good,False,1,Carabanchel,True,desconocido
+87,750.0,flat,rent,48.0,False,1,1,Madrid,Tres Cantos,20526,good,False,4,Zona Estación- Centro,True,desconocido
+88,690.0,flat,rent,35.0,True,1,1,Madrid,Madrid,4802,good,False,desconocido,Tetuán,False,desconocido
+89,750.0,flat,rent,74.0,True,3,1,Madrid,Alcorcón,13017,good,False,4,Centro,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': False, 'parkingSpacePrice': 50.0}"
+90,700.0,duplex,rent,35.0,True,1,1,Madrid,Madrid,852,good,False,bj,Centro,False,desconocido
+91,720.0,flat,rent,42.0,True,1,1,Madrid,Madrid,8333,good,False,4,Hortaleza,True,desconocido
+92,595.0,flat,rent,55.0,True,1,1,Madrid,Quijorna,29699,good,False,1,desconocido,False,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+93,700.0,flat,rent,45.0,False,1,1,Madrid,Madrid,1113,good,False,1,Centro,False,desconocido
+94,500.0,flat,rent,45.0,True,1,1,Madrid,Valdemorillo,32188,good,False,desconocido,Valdemorillo pueblo,False,desconocido
+95,700.0,flat,rent,75.0,True,2,1,Madrid,Aranjuez,43915,good,False,1,Nuevo Aranjuez-Ciudad de las Artes,False,desconocido
+96,675.0,duplex,rent,87.0,True,2,2,Madrid,Miraflores de la Sierra,44503,good,False,2,desconocido,False,desconocido
+97,650.0,flat,rent,45.0,True,1,1,Madrid,Pedrezuela,37741,good,False,bj,desconocido,False,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+98,750.0,studio,rent,55.0,True,0,1,Madrid,Madrid,918,good,False,2,Centro,True,desconocido
+99,720.0,studio,rent,45.0,True,0,1,Madrid,San Sebastián de los Reyes,15433,good,False,5,Vega de la Moraleja,True,desconocido
+100,624.0,flat,rent,45.0,True,1,1,Madrid,Valdemoro,24077,newdevelopment,True,desconocido,Hospital,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+101,633.0,flat,rent,45.0,True,1,1,Madrid,Valdemoro,24077,newdevelopment,True,desconocido,Hospital,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+102,640.0,studio,rent,33.0,True,0,1,Madrid,Madrid,11189,good,False,2,Villa de Vallecas,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': False, 'parkingSpacePrice': 40.0}"
+103,645.0,flat,rent,84.0,True,2,2,Madrid,Aranjuez,43827,good,False,2,Nuevo Aranjuez-Ciudad de las Artes,True,desconocido
+104,750.0,flat,rent,46.0,False,1,1,Madrid,Madrid,1069,good,False,3,Centro,False,desconocido
+105,735.0,studio,rent,35.0,True,0,1,Madrid,Madrid,11088,good,False,1,Fuencarral,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+106,600.0,flat,rent,55.0,True,1,1,Madrid,Daganzo de Arriba,25189,desconocido,desconocido,desconocido,desconocido,desconocido,desconocido
+107,750.0,flat,rent,75.0,True,3,1,Madrid,Madrid,8286,good,False,desconocido,Villaverde,False,desconocido
+108,600.0,penthouse,rent,25.0,True,1,1,Madrid,Madrid,183,good,False,5,Centro,True,desconocido
+109,705.0,flat,rent,48.0,True,1,1,Madrid,Madrid,11472,good,False,4,Villa de Vallecas,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+110,650.0,flat,rent,62.0,True,2,1,Madrid,Guadarrama,43229,good,False,3,desconocido,False,desconocido
+111,700.0,duplex,rent,61.0,True,2,1,Madrid,Cobeña,23917,good,False,1,desconocido,False,desconocido
+112,650.0,studio,rent,40.0,False,0,1,Madrid,Madrid,5088,good,False,en,Tetuán,True,desconocido
+113,700.0,flat,rent,40.0,True,1,1,Madrid,Madrid,3076,good,False,bj,Latina,False,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+114,730.0,flat,rent,51.0,True,2,1,Madrid,Madrid,6767,good,False,4,Villaverde,False,desconocido
+115,750.0,flat,rent,50.0,True,2,1,Madrid,Madrid,8331,good,False,3,Villa de Vallecas,False,desconocido
+116,680.0,flat,rent,56.0,True,2,1,Madrid,Torrejón de Ardoz,19298,good,False,3,Noroeste,False,desconocido
+117,710.0,flat,rent,78.0,True,3,1,Madrid,Parla,21617,good,False,4,Fuentebella-San Felix-El Leguario,False,desconocido
+118,720.0,flat,rent,47.0,True,2,1,Madrid,Madrid,7088,good,False,1,San Blas,False,desconocido
+119,750.0,studio,rent,43.0,True,0,1,Madrid,Madrid,5332,good,False,desconocido,Tetuán,True,desconocido
+120,695.0,studio,rent,40.0,True,0,1,Madrid,Madrid,12376,good,False,desconocido,Barajas,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+121,630.0,flat,rent,54.0,True,1,2,Madrid,El Álamo,32432,desconocido,desconocido,desconocido,desconocido,desconocido,desconocido
+122,750.0,flat,rent,90.0,True,3,1,Madrid,Algete,26401,good,False,desconocido,desconocido,True,desconocido
+123,730.0,flat,rent,50.0,True,1,1,Madrid,Madrid,8717,good,False,2,Villa de Vallecas,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+124,600.0,flat,rent,90.0,True,3,1,Madrid,Valdemoro,25182,good,False,desconocido,Centro,True,desconocido
+125,650.0,studio,rent,45.0,True,0,1,Madrid,Madrid,5656,good,False,bj,Ciudad Lineal,True,desconocido
+126,750.0,flat,rent,38.0,False,1,1,Madrid,Madrid,470,good,False,bj,Centro,True,desconocido
+127,730.0,flat,rent,50.0,True,1,1,Madrid,Rivas-Vaciamadrid,16410,good,False,desconocido,Rivas Futura,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+128,735.0,studio,rent,30.0,True,0,1,Madrid,Madrid,11188,good,False,2,Fuencarral,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+129,610.0,flat,rent,72.0,False,1,1,Madrid,Pinto,19544,good,False,bj,San José - Buenos Aires,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+130,580.0,chalet,rent,54.0,False,3,2,Madrid,Los Santos de la Humosa,39053,good,False,desconocido,desconocido,desconocido,desconocido
+131,725.0,flat,rent,50.0,True,1,1,Madrid,Villanueva del Pardillo,23787,good,False,en,Centro,False,desconocido
+132,750.0,flat,rent,48.0,True,1,1,Madrid,Madrid,5085,good,False,1,Carabanchel,False,desconocido
+133,750.0,flat,rent,70.0,True,3,1,Madrid,Alcalá de Henares,29660,good,False,2,San Isidro - Los Almendros,False,desconocido
+134,750.0,flat,rent,49.0,True,1,1,Madrid,Madrid,8465,good,False,7,Hortaleza,True,desconocido
+135,730.0,flat,rent,60.0,True,3,1,Madrid,Parla,20948,good,False,3,Reyes,False,desconocido
+136,560.0,flat,rent,26.0,False,1,1,Madrid,Madrid,625,good,False,bj,Centro,False,desconocido
+137,700.0,studio,rent,23.0,True,0,1,Madrid,Madrid,1271,desconocido,desconocido,desconocido,desconocido,desconocido,desconocido
+138,750.0,flat,rent,80.0,True,3,1,Madrid,San Fernando de Henares,14991,good,False,2,Parque Roma - Coronas,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+139,730.0,flat,rent,70.0,True,3,1,Madrid,Pinto,18781,good,False,3,Parque Europa - Los Pitufos,False,desconocido
+140,730.0,flat,rent,52.0,True,2,1,Madrid,Madrid,8827,good,False,4,Vicálvaro,False,desconocido
+141,740.0,flat,rent,64.0,True,2,1,Madrid,Madrid,8365,good,False,3,Villaverde,False,desconocido
+142,720.0,flat,rent,65.0,True,2,1,Madrid,Madrid,7511,good,False,2,Villaverde,False,desconocido
+143,720.0,flat,rent,63.0,True,2,1,Madrid,Torrejón de Ardoz,19731,good,False,2,Noroeste,False,desconocido
+144,740.0,flat,rent,54.0,True,2,1,Madrid,Madrid,6636,good,False,1,Villaverde,True,desconocido
+145,720.0,flat,rent,52.0,True,2,1,Madrid,Getafe,12695,good,False,3,La Alhóndiga,False,desconocido
+146,730.0,flat,rent,45.0,True,2,1,Madrid,Madrid,4385,good,False,3,Puente de Vallecas,False,desconocido
+147,600.0,duplex,rent,80.0,False,1,1,Madrid,Madrid,7223,desconocido,desconocido,desconocido,desconocido,desconocido,desconocido
+148,600.0,duplex,rent,80.0,False,1,1,Madrid,Madrid,7141,desconocido,desconocido,desconocido,desconocido,desconocido,desconocido
+149,725.0,duplex,rent,71.0,True,2,1,Madrid,Cobeña,23158,good,False,1,desconocido,False,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+150,675.0,flat,rent,76.0,True,3,1,Madrid,Aldea del Fresno,43485,good,False,2,desconocido,False,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+151,750.0,flat,rent,54.0,True,1,1,Madrid,San Sebastián de los Reyes,15834,good,False,3,Centro Urbano,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+152,750.0,duplex,rent,79.0,True,2,2,Madrid,Collado Villalba,34697,good,False,1,Villalba Estación,False,desconocido
+153,700.0,flat,rent,54.0,True,1,1,Madrid,Madrid,3354,good,False,2,Usera,True,desconocido
+154,750.0,flat,rent,54.0,True,2,1,Madrid,Madrid,8322,good,False,3,Villaverde,False,desconocido
+155,730.0,flat,rent,48.0,True,2,1,Madrid,Madrid,6997,good,False,3,San Blas,False,desconocido
+156,650.0,flat,rent,61.0,True,2,1,Madrid,Alcalá de Henares,28605,good,False,4,Reyes Católicos,False,desconocido
+157,730.0,flat,rent,63.0,True,2,1,Madrid,Madrid,7893,good,False,1,Villaverde,False,desconocido
+158,720.0,flat,rent,50.0,True,2,1,Madrid,Madrid,7041,good,False,2,San Blas,False,desconocido
+159,720.0,flat,rent,51.0,True,2,1,Madrid,Madrid,6973,good,False,1,San Blas,False,desconocido
+160,750.0,flat,rent,47.0,True,2,1,Madrid,Madrid,4538,good,False,1,Puente de Vallecas,False,desconocido
+161,730.0,flat,rent,50.0,True,2,1,Madrid,Madrid,7411,good,False,3,Villaverde,False,desconocido
+162,730.0,flat,rent,40.0,True,2,1,Madrid,Madrid,4201,good,False,2,Puente de Vallecas,False,desconocido
+163,670.0,flat,rent,67.0,True,2,1,Madrid,Valdemoro,25100,good,False,1,Zona Estación,True,desconocido
+164,740.0,flat,rent,52.0,True,2,1,Madrid,Madrid,4862,good,False,3,Puente de Vallecas,False,desconocido
+165,720.0,flat,rent,69.0,True,2,1,Madrid,Alcalá de Henares,29084,good,False,1,Chorrillo,True,desconocido
+166,750.0,flat,rent,59.0,True,2,1,Madrid,Madrid,8400,good,False,4,Villaverde,False,desconocido
+167,740.0,flat,rent,45.0,True,2,1,Madrid,Madrid,7720,good,False,3,Villaverde,False,desconocido
+168,740.0,flat,rent,60.0,True,2,1,Madrid,Madrid,6670,good,False,1,Villaverde,True,desconocido
+169,730.0,studio,rent,45.0,False,0,1,Madrid,Madrid,854,good,False,desconocido,Centro,True,desconocido
+170,620.0,flat,rent,75.0,True,3,1,Madrid,Parla,21044,good,False,desconocido,Reyes,True,desconocido
+171,695.0,flat,rent,67.0,True,2,1,Madrid,Fuenlabrada,16111,good,False,desconocido,Sudeste Industrial,False,desconocido
+172,650.0,flat,rent,95.0,True,3,1,Madrid,Navalcarnero,29884,good,False,desconocido,Centro,True,desconocido
+173,675.0,flat,rent,68.0,True,2,1,Madrid,Alcalá de Henares,30461,good,False,desconocido,Juan de Austria,True,desconocido
+174,695.0,flat,rent,65.0,True,2,1,Madrid,Madrid,8484,good,False,desconocido,Vicálvaro,False,desconocido
+175,750.0,flat,rent,111.0,True,2,2,Madrid,Parla,20583,good,False,6,Centro,True,desconocido
+176,675.0,flat,rent,35.0,False,1,1,Madrid,Madrid,1016,desconocido,desconocido,desconocido,desconocido,desconocido,desconocido
+177,730.0,flat,rent,60.0,False,3,1,Madrid,Parla,20756,good,False,3,Reyes,False,desconocido
+178,690.0,flat,rent,85.0,True,2,1,Madrid,Parla,20804,good,False,desconocido,Reyes,True,desconocido
+179,750.0,flat,rent,45.0,False,1,1,Madrid,Madrid,5089,good,False,bj,Tetuán,False,desconocido
+180,600.0,studio,rent,32.0,True,0,1,Madrid,Madrid,6325,good,False,1,San Blas,True,desconocido
+181,723.0,studio,rent,25.0,True,0,1,Madrid,Rivas-Vaciamadrid,16775,newdevelopment,True,desconocido,Rivas Futura,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+182,725.0,flat,rent,50.0,True,1,1,Madrid,Madrid,10503,good,False,1,San Blas,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+183,750.0,flat,rent,67.0,True,3,1,Madrid,Getafe,11657,desconocido,desconocido,desconocido,desconocido,desconocido,desconocido
+184,600.0,flat,rent,45.0,True,2,1,Madrid,Mataelpino,41003,desconocido,desconocido,desconocido,desconocido,desconocido,desconocido
+185,750.0,flat,rent,70.0,True,3,1,Madrid,San Fernando de Henares,14642,good,False,2,Montserrat - Parque Empresarial,False,desconocido
+186,450.0,penthouse,rent,60.0,True,1,1,Madrid,Villa del Prado,53238,good,False,desconocido,desconocido,False,desconocido
+187,720.0,flat,rent,54.0,True,1,1,Madrid,Madrid,3296,good,False,bj,Carabanchel,False,desconocido
+188,550.0,penthouse,rent,75.0,True,2,2,Madrid,Villa del Prado,53247,good,False,desconocido,desconocido,False,desconocido
+189,720.0,flat,rent,49.0,False,3,1,Madrid,Madrid,8411,good,False,3,Villaverde,False,desconocido
+190,740.0,flat,rent,65.0,True,3,1,Madrid,Madrid,8443,good,False,1,Vicálvaro,True,desconocido
+191,660.0,flat,rent,155.0,False,3,2,Madrid,Aranjuez,41119,desconocido,desconocido,desconocido,desconocido,desconocido,desconocido
+192,720.0,flat,rent,56.0,False,2,1,Madrid,Madrid,6691,good,False,4,Villaverde,False,desconocido
+193,650.0,flat,rent,31.0,False,1,1,Madrid,Madrid,1207,good,False,3,Centro,False,desconocido
+194,650.0,flat,rent,96.0,True,2,1,Madrid,Aranjuez,43953,good,False,3,Nuevo Aranjuez-Ciudad de las Artes,False,desconocido
+195,660.0,flat,rent,168.0,False,4,2,Madrid,Aranjuez,41221,good,False,3,La Montaña-El Cortijo,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+196,690.0,flat,rent,64.0,True,2,1,Madrid,Alcalá de Henares,30634,good,False,bj,Val,False,desconocido
+197,750.0,studio,rent,25.0,True,0,1,Madrid,Madrid,3177,good,False,5,Barrio de Salamanca,True,desconocido
+198,725.0,flat,rent,45.0,True,1,1,Madrid,Madrid,10508,good,False,2,San Blas,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+199,620.0,flat,rent,85.0,False,1,1,Madrid,Pinto,19767,good,False,bj,San José - Buenos Aires,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+200,590.0,flat,rent,52.0,True,1,1,Madrid,Los Molinos,44526,good,False,bj,desconocido,False,desconocido
+201,750.0,penthouse,rent,80.0,True,0,1,Madrid,Tres Cantos,20818,good,False,1,Zona Industrial,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+202,720.0,studio,rent,36.0,True,0,1,Madrid,Madrid,5975,good,False,2,Ciudad Lineal,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+203,700.0,flat,rent,82.0,True,2,1,Madrid,San Lorenzo de el Escorial,42463,good,False,3,Centro - Casco Histórico,False,desconocido
+204,692.0,flat,rent,83.0,True,2,2,Madrid,Torrejón de Ardoz,20294,newdevelopment,True,desconocido,Suroeste,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+205,670.0,flat,rent,79.0,True,2,2,Madrid,Torrejón de Ardoz,20294,newdevelopment,True,desconocido,Suroeste,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+206,609.0,flat,rent,56.0,True,1,1,Madrid,Alcalá de Henares,30186,newdevelopment,True,bj,Espartales,True,desconocido
+207,718.0,flat,rent,86.0,True,2,2,Madrid,Torrejón de Ardoz,20294,newdevelopment,True,desconocido,Suroeste,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+208,694.0,flat,rent,81.0,True,2,2,Madrid,Torrejón de Ardoz,20294,newdevelopment,True,desconocido,Suroeste,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+209,658.0,flat,rent,78.0,True,2,2,Madrid,Torrejón de Ardoz,20294,newdevelopment,True,desconocido,Suroeste,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+210,750.0,flat,rent,36.0,False,2,1,Madrid,Madrid,3620,good,False,2,Tetuán,True,desconocido
+211,723.0,flat,rent,88.0,True,2,2,Madrid,Torrejón de Ardoz,20294,newdevelopment,True,desconocido,Suroeste,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+212,728.0,flat,rent,91.0,True,2,2,Madrid,Torrejón de Ardoz,20294,newdevelopment,True,desconocido,Suroeste,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+213,650.0,studio,rent,28.0,True,0,1,Madrid,Madrid,4920,good,False,bj,Tetuán,False,desconocido
+214,750.0,flat,rent,60.0,False,2,1,Madrid,Alcalá de Henares,29663,good,False,1,Casco Histórico,False,desconocido
+215,735.0,flat,rent,60.0,True,3,1,Madrid,Parla,20886,good,False,4,Parque Inlasa,False,desconocido
+216,699.0,penthouse,rent,78.0,True,2,1,Madrid,Colmenar Viejo,27684,good,False,2,Centro,False,desconocido
+217,725.0,flat,rent,67.0,True,3,1,Madrid,Móstoles,17191,good,False,4,Centro,False,desconocido
+218,740.0,flat,rent,77.0,True,3,2,Madrid,Alcalá de Henares,28385,good,False,bj,Reyes Católicos,True,desconocido
+219,720.0,flat,rent,73.0,True,1,1,Madrid,Collado Villalba,34761,good,False,2,Villalba Estación,True,desconocido
+220,750.0,flat,rent,79.0,True,3,1,Madrid,Getafe,11728,good,False,en,Universidad,True,desconocido
+221,710.0,flat,rent,66.0,True,3,1,Madrid,Parla,20588,good,False,4,Parque Inlasa,False,desconocido
+222,725.0,flat,rent,62.0,True,2,1,Madrid,Madrid,7748,good,False,3,Latina,False,desconocido
+223,750.0,flat,rent,46.0,False,1,1,Madrid,Madrid,5680,good,False,bj,Carabanchel,False,desconocido
+224,750.0,flat,rent,61.0,True,2,1,Madrid,Madrid,3161,good,False,1,Carabanchel,True,desconocido
+225,730.0,flat,rent,161.0,True,4,1,Madrid,Aranjuez,44159,good,False,3,Nuevo Aranjuez-Ciudad de las Artes,False,desconocido
+226,720.0,flat,rent,110.0,False,2,1,Madrid,Parla,21417,good,False,desconocido,Las Américas,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+227,720.0,flat,rent,48.0,False,2,1,Madrid,Madrid,3551,good,False,bj,Puente de Vallecas,False,desconocido
+228,700.0,flat,rent,57.0,False,2,1,Madrid,Madrid,8410,good,False,4,Villaverde,False,desconocido
+229,750.0,duplex,rent,75.0,True,2,2,Madrid,Cobeña,24176,good,False,1,desconocido,False,desconocido
+230,610.0,studio,rent,26.0,False,0,1,Madrid,Madrid,5343,good,False,3,Tetuán,True,desconocido
+231,740.0,flat,rent,52.0,False,2,1,Madrid,Móstoles,17525,good,False,4,Centro,False,desconocido
+232,715.0,flat,rent,62.0,True,2,1,Madrid,Colmenar Viejo,26558,good,False,bj,San Crispín - La Estación Consorcio,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+233,550.0,flat,rent,57.0,False,2,1,Madrid,Aranjuez,43521,good,False,bj,Foso-Moreras,False,desconocido
+234,710.0,flat,rent,36.0,True,1,1,Madrid,Madrid,1315,good,False,bj,Arganzuela,False,desconocido
+235,730.0,flat,rent,51.0,True,2,1,Madrid,Madrid,8093,good,False,2,Villaverde,False,desconocido
+236,750.0,studio,rent,23.0,True,0,1,Madrid,Madrid,1367,good,False,8,Centro,True,desconocido
+237,690.0,flat,rent,33.0,False,1,1,Madrid,Madrid,5232,good,False,3,Tetuán,True,desconocido
+238,740.0,flat,rent,73.0,True,3,1,Madrid,Parla,21838,good,False,4,Fuentebella-San Felix-El Leguario,True,desconocido
+239,750.0,duplex,rent,66.0,True,1,1,Madrid,Madrid,5627,good,False,bj,Tetuán,True,desconocido
+240,720.0,flat,rent,44.0,False,3,1,Madrid,Madrid,8176,good,False,2,Villaverde,False,desconocido
+241,475.0,flat,rent,79.0,True,2,2,Madrid,Navalafuente,45077,good,False,2,desconocido,True,desconocido
+242,740.0,flat,rent,41.0,True,2,1,Madrid,Madrid,4787,good,False,2,Puente de Vallecas,False,desconocido
+243,740.0,flat,rent,57.0,True,1,1,Madrid,Madrid,3642,good,False,1,Latina,True,desconocido
+244,740.0,flat,rent,62.0,True,2,1,Madrid,Colmenar Viejo,26890,good,False,1,San Crispín - La Estación Consorcio,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+245,700.0,flat,rent,74.0,False,2,1,Madrid,Getafe,9950,good,False,4,Getafe norte,False,desconocido
+246,730.0,flat,rent,35.0,False,1,1,Madrid,Madrid,760,good,False,2,Centro,True,desconocido
+247,700.0,studio,rent,28.0,True,0,1,Madrid,Madrid,9700,good,False,3,Fuencarral,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': False, 'parkingSpacePrice': 90.0}"
+248,600.0,chalet,rent,180.0,False,3,2,Madrid,Meco,35543,good,False,desconocido,desconocido,desconocido,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+249,750.0,flat,rent,109.0,True,2,2,Madrid,Valdemoro,24455,good,False,3,Hospital,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+250,749.0,flat,rent,38.0,True,1,1,Madrid,Madrid,6506,good,False,2,Carabanchel,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+251,700.0,studio,rent,30.0,False,0,1,Madrid,Madrid,2411,good,False,bj,Retiro,True,desconocido
+252,667.0,flat,rent,70.0,True,1,1,Madrid,Parla,21185,good,False,8,Parla Este,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+253,725.0,flat,rent,45.0,False,1,1,Madrid,Madrid,10398,good,False,1,San Blas,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+254,550.0,penthouse,rent,70.0,True,3,1,Madrid,Robledo de Chavela,47595,good,False,3,desconocido,False,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+255,695.0,flat,rent,55.0,True,3,1,Madrid,Parla,19765,good,False,4,Villayuventus-Renfe,False,desconocido
+256,750.0,flat,rent,105.0,True,3,1,Madrid,Campo Real,28810,good,False,1,desconocido,False,desconocido
+257,699.0,flat,rent,52.0,True,1,1,Madrid,Madrid,7092,good,False,3,Puente de Vallecas,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+258,750.0,studio,rent,32.0,True,0,1,Madrid,Madrid,5006,good,False,14,Ciudad Lineal,True,desconocido
+259,730.0,flat,rent,80.0,True,3,1,Madrid,Collado Villalba,35774,good,False,4,Carlos Ruiz,False,desconocido
+260,710.0,flat,rent,30.0,True,1,1,Madrid,Madrid,1156,good,False,bj,Centro,False,desconocido
+261,650.0,flat,rent,58.0,True,1,1,Madrid,Madrid,5924,good,False,4,Puente de Vallecas,True,desconocido
+262,600.0,countryHouse,rent,60.0,False,2,2,Madrid,Villaviciosa de Odón,23776,renew,False,desconocido,Centro,desconocido,desconocido
+263,740.0,flat,rent,41.0,True,2,1,Madrid,Madrid,8358,good,False,3,Villa de Vallecas,False,desconocido
+264,525.0,flat,rent,40.0,True,1,1,Madrid,Aranjuez,43059,good,False,3,Foso-Moreras,True,desconocido
+265,750.0,studio,rent,35.0,True,0,1,Madrid,Madrid,1272,good,False,4,Moncloa,False,desconocido
+266,750.0,flat,rent,74.0,True,3,1,Madrid,Alcalá de Henares,29245,good,False,2,Chorrillo,True,desconocido
+267,710.0,flat,rent,69.0,True,3,1,Madrid,Alcalá de Henares,28440,good,False,5,Reyes Católicos,True,desconocido
+268,560.0,studio,rent,46.0,True,0,1,Madrid,Madrid,3786,good,False,bj,Puente de Vallecas,False,desconocido
+269,600.0,flat,rent,42.0,True,1,1,Madrid,Torrejón de Ardoz,18905,good,False,bj,Noroeste,False,desconocido
+270,720.0,flat,rent,44.0,True,1,1,Madrid,Madrid,3589,good,False,ss,Carabanchel,False,desconocido
+271,750.0,flat,rent,60.0,True,2,1,Madrid,Madrid,2591,good,False,desconocido,Latina,False,desconocido
+272,750.0,flat,rent,42.0,False,1,1,Madrid,Madrid,2762,good,False,4,Arganzuela,True,desconocido
+273,750.0,studio,rent,90.0,True,0,1,Madrid,Madrid,7228,good,False,4,San Blas,True,desconocido
+274,650.0,studio,rent,45.0,False,0,1,Madrid,Madrid,3807,good,False,bj,Chamartín,True,desconocido
+275,650.0,flat,rent,59.0,True,1,1,Madrid,Parla,20637,good,False,2,El Nido-Las Fuentes,True,desconocido
+276,670.0,flat,rent,75.0,True,2,1,Madrid,Arganda,27056,good,False,3,El Mirador - Grillero,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+277,650.0,flat,rent,45.0,True,1,1,Madrid,Getafe,12383,newdevelopment,True,2,La Alhóndiga,True,desconocido
+278,750.0,flat,rent,32.0,True,1,1,Madrid,Madrid,5339,good,False,2,Puente de Vallecas,True,desconocido
+279,725.0,flat,rent,50.0,True,1,1,Madrid,Madrid,5564,desconocido,desconocido,desconocido,desconocido,desconocido,desconocido
+280,620.0,studio,rent,20.0,False,0,1,Madrid,Madrid,1893,good,False,1,Arganzuela,True,desconocido
+281,680.0,flat,rent,35.0,True,1,1,Madrid,Madrid,3308,good,False,bj,Carabanchel,False,desconocido
+282,750.0,flat,rent,87.0,True,3,1,Madrid,Coslada,12519,good,False,bj,La Espinilla - Parque Blanco,True,desconocido
+283,670.0,flat,rent,53.0,True,1,1,Madrid,Getafe,12383,newdevelopment,True,1,La Alhóndiga,True,desconocido
+284,600.0,flat,rent,75.0,True,3,1,Madrid,Alcalá de Henares,28756,desconocido,desconocido,desconocido,desconocido,desconocido,desconocido
+285,750.0,flat,rent,70.0,True,2,1,Madrid,Alcorcón,12614,good,False,4,Centro,False,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': False, 'parkingSpacePrice': 15000.0}"
+286,700.0,flat,rent,36.0,True,2,1,Madrid,Pozuelo de Alarcón,9525,good,False,3,Zona Pueblo,False,desconocido
+287,695.0,flat,rent,58.0,False,1,1,Madrid,Madrid,5659,good,False,1,Carabanchel,True,desconocido
+288,710.0,flat,rent,66.0,True,1,1,Madrid,Arganda,25013,good,False,2,Centro,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+289,620.0,flat,rent,80.0,True,2,1,Madrid,Bustarviejo,49280,good,False,2,desconocido,False,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+290,700.0,flat,rent,80.0,True,3,1,Madrid,Collado Mediano,40907,good,False,1,desconocido,False,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+291,715.0,flat,rent,89.0,True,3,1,Madrid,Chinchón,39316,good,False,bj,desconocido,False,desconocido
+292,750.0,flat,rent,50.0,True,1,1,Madrid,Madrid,11203,good,False,1,Villa de Vallecas,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+293,750.0,flat,rent,45.0,True,1,1,Madrid,Madrid,8426,good,False,2,Hortaleza,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+294,550.0,studio,rent,25.0,False,0,1,Madrid,Madrid,4650,good,False,bj,Tetuán,False,desconocido
+295,730.0,flat,rent,60.0,True,1,1,Madrid,Colmenar Viejo,27803,good,False,desconocido,Centro,False,desconocido
+296,750.0,penthouse,rent,46.0,True,2,1,Madrid,Madrid,3889,good,False,4,Puente de Vallecas,True,desconocido
+297,700.0,flat,rent,45.0,True,1,1,Madrid,Coslada,13887,good,False,bj,Ciudad 70,False,desconocido
+298,680.0,flat,rent,85.0,True,2,1,Madrid,Coslada,13303,renew,False,bj,Valleaguado - La Cañada,True,desconocido
+299,600.0,flat,rent,28.0,False,1,1,Madrid,Madrid,4418,good,False,4,Tetuán,False,desconocido
+300,750.0,flat,rent,80.0,True,2,1,Madrid,Colmenarejo,30995,good,False,1,desconocido,False,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+301,700.0,flat,rent,62.0,True,1,1,Madrid,Alcorcón,13040,good,False,2,Centro,True,desconocido
+302,690.0,flat,rent,77.0,True,2,1,Madrid,Madrid,7283,good,False,bj,Carabanchel,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+303,700.0,flat,rent,50.0,True,1,1,Madrid,Madrid,7844,good,False,bj,Fuencarral,False,desconocido
+304,750.0,flat,rent,87.0,True,2,1,Madrid,Coslada,13773,good,False,5,Ciudad 70,True,desconocido
+305,735.0,flat,rent,51.0,True,1,1,Madrid,Getafe,14023,good,False,4,Buenavista,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+306,700.0,flat,rent,80.0,True,3,1,Madrid,Móstoles,17777,good,False,5,Suroeste,True,desconocido
+307,725.0,flat,rent,75.0,True,3,1,Madrid,Fuenlabrada,16247,good,False,desconocido,Centro,False,desconocido
+308,733.0,flat,rent,68.4,True,2,1,Madrid,Alcalá de Henares,28541,good,False,2,Las Sedas - El Olivar,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+309,750.0,flat,rent,36.0,True,1,1,Madrid,Madrid,4237,good,False,bj,Ciudad Lineal,True,desconocido
+310,675.0,flat,rent,69.0,True,2,1,Madrid,Madrid,5656,good,False,bj,Latina,False,desconocido
+311,650.0,flat,rent,85.0,True,2,1,Madrid,Guadarrama,43066,good,False,2,desconocido,False,desconocido
+312,730.0,flat,rent,52.0,True,1,1,Madrid,Madrid,5879,good,False,bj,Tetuán,True,desconocido
+313,700.0,flat,rent,97.0,True,1,1,Madrid,Loeches,24605,good,False,bj,desconocido,True,desconocido
+314,690.0,studio,rent,38.0,False,0,1,Madrid,Madrid,5798,good,False,2,Tetuán,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+315,700.0,flat,rent,70.0,True,2,1,Madrid,Guadarrama,43166,good,False,1,desconocido,False,desconocido
+316,600.0,duplex,rent,89.0,True,2,2,Madrid,Miraflores de la Sierra,44474,good,False,2,desconocido,False,desconocido
+317,700.0,studio,rent,25.0,False,0,1,Madrid,Madrid,691,good,False,bj,Centro,False,desconocido
+318,690.0,flat,rent,60.0,True,2,1,Madrid,Sevilla la Nueva,29005,good,False,bj,desconocido,False,desconocido
+319,750.0,duplex,rent,114.0,True,3,3,Madrid,Serranillos del Valle,28099,good,False,1,desconocido,False,desconocido
+320,700.0,studio,rent,51.0,True,0,1,Madrid,Madrid,8471,good,False,bj,Hortaleza,False,desconocido
+321,670.0,flat,rent,61.0,True,1,1,Madrid,Collado Villalba,35136,good,False,bj,Parque de la Coruña - Las Suertes,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+322,750.0,flat,rent,80.0,True,2,1,Madrid,Valdemoro,25085,good,False,4,Zona Estación,True,desconocido
+323,740.0,studio,rent,33.0,True,0,1,Madrid,Madrid,8322,good,False,bj,Hortaleza,True,desconocido
+324,750.0,flat,rent,110.0,True,4,2,Madrid,Colmenar Viejo,27976,good,False,1,El Mirador,False,desconocido
+325,750.0,flat,rent,62.0,True,2,1,Madrid,Madrid,5703,good,False,3,Puente de Vallecas,False,desconocido
+326,750.0,studio,rent,70.0,True,0,1,Madrid,San Sebastián de los Reyes,16273,good,False,bj,Pol. Industrial sur,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+327,650.0,studio,rent,28.0,True,0,1,Madrid,Madrid,5399,good,False,bj,Ciudad Lineal,False,desconocido
+328,625.0,flat,rent,51.0,True,1,1,Madrid,Arganda,25010,good,False,2,Centro,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+329,700.0,flat,rent,35.0,True,1,1,Madrid,Madrid,2266,good,False,bj,Retiro,True,desconocido
+330,750.0,flat,rent,95.0,True,2,2,Madrid,Colmenarejo,30759,good,False,1,desconocido,False,desconocido
+331,600.0,studio,rent,25.0,False,0,1,Madrid,Madrid,3812,good,False,bj,Usera,False,desconocido
+332,750.0,flat,rent,89.0,True,2,2,Madrid,Getafe,12878,good,False,2,San Isidro,True,desconocido
+333,700.0,flat,rent,55.0,True,1,1,Madrid,Valdemorillo,32004,good,False,1,Valdemorillo pueblo,True,desconocido
+334,750.0,flat,rent,90.0,True,3,2,Madrid,Campo Real,28736,good,False,2,desconocido,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+335,750.0,flat,rent,48.0,True,2,1,Madrid,Madrid,6832,good,False,2,Fuencarral,True,desconocido
+336,625.0,flat,rent,57.0,True,2,1,Madrid,Aranjuez,43647,good,False,bj,Centro,False,desconocido
+337,750.0,flat,rent,46.0,True,1,1,Madrid,San Sebastián de los Reyes,16127,good,False,1,Centro Urbano,False,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+338,695.0,flat,rent,59.0,True,1,1,Madrid,Madrid,8595,good,False,4,Villaverde,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+339,450.0,flat,rent,40.0,True,1,1,Madrid,Robledo de Chavela,46273,good,False,1,desconocido,False,desconocido
+340,720.0,flat,rent,58.0,True,2,1,Madrid,Alcorcón,13451,good,False,bj,Centro,False,desconocido
+341,745.0,flat,rent,73.0,True,2,1,Madrid,Alcalá de Henares,28800,good,False,2,Las Sedas - El Olivar,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+342,720.0,flat,rent,69.6,True,2,1,Madrid,Alcalá de Henares,28624,good,False,2,Las Sedas - El Olivar,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+343,750.0,flat,rent,55.0,True,2,1,Madrid,Madrid,7462,good,False,1,Fuencarral,False,desconocido
+344,720.0,studio,rent,48.0,True,0,1,Madrid,Madrid,5808,good,False,1,Ciudad Lineal,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+345,725.0,studio,rent,44.0,False,0,1,Madrid,Madrid,1140,good,False,8,Centro,True,desconocido
+346,750.0,flat,rent,80.0,False,2,1,Madrid,Madrid,8011,good,False,5,Villaverde,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+347,550.0,flat,rent,86.0,True,2,1,Madrid,Torrelaguna,47448,good,False,1,desconocido,True,desconocido
+348,640.0,flat,rent,69.0,True,2,1,Madrid,Villalbilla,29311,good,False,2,desconocido,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+349,700.0,flat,rent,54.0,True,1,1,Madrid,Getafe,11656,good,False,1,Getafe Centro,True,desconocido
+350,700.0,flat,rent,59.0,True,1,1,Madrid,Madrid,7529,good,False,6,Carabanchel,True,"{'hasParkingSpace': True, 'isParkingSpaceIncludedInPrice': True}"
+351,700.0,flat,rent,75.0,True,2,1,Madrid,Alcalá de Henares,30359,good,False,1,Pryconsa - Poligono Europa,False,desconocido
+352,695.0,flat,rent,62.0,False,2,1,Madrid,Alcobendas,15162,good,False,3,Alcobendas Centro,False,desconocido
